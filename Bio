@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Keyur Nilesh Deogade</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+        h1 {
+            text-align: center;
+        }
+        .bio {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Keyur Nilesh Deogade</h1>
+        </header>
+        <section class="bio">
+            <h2>Bio</h2>
+            <p>Hello! My name is Keyur Nilesh Deogade. I am a passionate individual with a diverse range of interests. I currently play basketball at Tbrans Mundle English Medium School, where I actively participate and contribute to the team's success. In my free time, I enjoy reading, playing basketball, and exploring virtual worlds in Minecraft. I am also an intermediate German learner, continually improving my language skills. Feel free to reach out to me at +91 8482980015!</p>
+        </section>
+        <!-- Additional sections can be added here -->
+    </div>
+</body>
+</html>
